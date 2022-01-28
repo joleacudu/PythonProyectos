@@ -1,6 +1,5 @@
 """
 Autor: Jorge Leonardo Cuellar Dussan
-Fecha: 30/05/2021
 
 El departamento de Talento Humano de la Universidad El Bosque, a raíz de la participación en un proyecto muy especial, requiere poder procesar 
 la nómina de docentes contratados por horas. Para tal efecto ha establecido los siguientes lineamientos:
