@@ -1,10 +1,5 @@
 """
-Autor: Jorge Leonardo Cuellar Dussan 
-       C.C 1075258538
-
-Universidad: El Bosque - Grupo 50, Ciclo 1 Fundamentos de programacion.
-
-Fecha: 15/05/2021
+Autor: Jorge Leonardo Cuellar D.
 
 Situación
 
